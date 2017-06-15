@@ -25,6 +25,7 @@ oc label node mbaas-3 mbaas_id=mbaas3
 
 ```
 
+
 ### 1 Node persistent MBaaS
 
 RHMAP 1-Node MBaaS for OpenShift will require the following resources outlined in the table below at a minimum:
